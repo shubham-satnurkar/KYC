@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2038.511" height="2251.03" viewBox="0 0 2038.511 2251.03">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.301" y2="1.554" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8802"/>
+      <stop offset="1" stop-color="#f4ff76"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.415" y2="1.075" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff5b12"/>
+      <stop offset="1" stop-color="#ffe576"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_12067" data-name="Group 12067" transform="translate(303.227 40.047)">
+    <g id="Group_11417" data-name="Group 11417" transform="translate(1.273 374.586)">
+      <g id="Group_11355" data-name="Group 11355" transform="translate(-304.5 1445.173)">
+        <ellipse id="Ellipse_515" data-name="Ellipse 515" cx="149.742" cy="153.664" rx="149.742" ry="153.664" transform="translate(0 102.429) rotate(-20)" fill="url(#linear-gradient)"/>
+        <ellipse id="Ellipse_516" data-name="Ellipse 516" cx="84.284" cy="88.639" rx="84.284" ry="88.639" transform="translate(115.711 58.946)" fill="#a271ff"/>
+        <ellipse id="Ellipse_517" data-name="Ellipse 517" cx="116.941" cy="116.941" rx="116.941" ry="116.941" transform="translate(54.694 131.766) rotate(-20)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <ellipse id="Ellipse_540" data-name="Ellipse 540" cx="216.879" cy="222.559" rx="216.879" ry="222.559" transform="translate(-233.901 999.484) rotate(-20)" fill="#fa4620"/>
+    <ellipse id="Ellipse_718" data-name="Ellipse 718" cx="216.879" cy="222.559" rx="216.879" ry="222.559" transform="translate(1175.445 1724.484) rotate(-20)" fill="#fa4620"/>
+    <g id="Group_11457" data-name="Group 11457" transform="translate(-150 -110)">
+      <ellipse id="Ellipse_515-2" data-name="Ellipse 515" cx="406.456" cy="417.101" rx="406.456" ry="417.101" transform="translate(556.162 347.985) rotate(-20)" fill="url(#linear-gradient)"/>
+      <ellipse id="Ellipse_516-2" data-name="Ellipse 516" cx="229" cy="240.5" rx="229" ry="240.5" transform="translate(870 230)" fill="#a271ff"/>
+      <ellipse id="Ellipse_517-2" data-name="Ellipse 517" cx="317.423" cy="317.423" rx="317.423" ry="317.423" transform="translate(704.622 427.615) rotate(-20)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

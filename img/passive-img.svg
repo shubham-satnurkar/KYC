@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="95" viewBox="0 0 95 95">
+  <g id="Group_7748" data-name="Group 7748" transform="translate(-20.833 -7.812)">
+    <path id="Path_12015" data-name="Path 12015" d="M20.833,55.312a47.5,47.5,0,1,0,47.5-47.5A47.5,47.5,0,0,0,20.833,55.312Z" transform="translate(0 0)" fill="#fff148"/>
+    <path id="Path_12016" data-name="Path 12016" d="M68.333,7.812a47.5,47.5,0,1,0,47.5,47.5A47.5,47.5,0,0,0,68.333,7.812Zm0,87.875a43.344,43.344,0,1,1,43.344-43.344A43.343,43.343,0,0,1,68.333,95.687Z" transform="translate(0 0)" fill="#fff148"/>
+    <path id="Path_12017" data-name="Path 12017" d="M93.75,24.4c0,1.968,6.38,3.562,14.25,3.562s14.25-1.595,14.25-3.562-6.38-3.563-14.25-3.563S93.75,22.428,93.75,24.4Z" transform="translate(-39.667 -7.083)" fill="#525252"/>
+    <g id="Group_7745" data-name="Group 7745" transform="translate(38.646 43.437)">
+      <path id="Path_12018" data-name="Path 12018" d="M76.521,94.25a8.312,8.312,0,1,1-8.312-8.313A8.312,8.312,0,0,1,76.521,94.25Z" transform="translate(-59.896 -85.937)" fill="#fff"/>
+    </g>
+    <g id="Group_7746" data-name="Group 7746" transform="translate(81.396 43.437)">
+      <path id="Path_12019" data-name="Path 12019" d="M170.271,94.25a8.312,8.312,0,1,1-8.312-8.313A8.312,8.312,0,0,1,170.271,94.25Z" transform="translate(-153.646 -85.937)" fill="#fff"/>
+    </g>
+    <path id="Path_12020" data-name="Path 12020" d="M52.083,133.771c0,1.971,2.66,3.562,5.938,3.562s5.938-1.591,5.938-3.562-2.66-3.563-5.938-3.563S52.083,131.8,52.083,133.771Z" transform="translate(-17 -66.584)" fill="#c4777d"/>
+    <path id="Path_12021" data-name="Path 12021" d="M183.75,133.771c0,1.971-2.66,3.562-5.938,3.562s-5.938-1.591-5.938-3.562,2.66-3.563,5.938-3.563S183.75,131.8,183.75,133.771Z" transform="translate(-82.167 -66.584)" fill="#c4777d"/>
+    <g id="Group_7747" data-name="Group 7747" transform="translate(43.396 44.625)">
+      <ellipse id="Ellipse_628" data-name="Ellipse 628" cx="3.562" cy="3.562" rx="3.562" ry="3.562" transform="translate(0)" fill="#45413c"/>
+      <ellipse id="Ellipse_629" data-name="Ellipse 629" cx="3.562" cy="3.562" rx="3.562" ry="3.562" transform="translate(42.75)" fill="#45413c"/>
+    </g>
+    <path id="Path_12022" data-name="Path 12022" d="M122.208,166.438h-14.25a1.188,1.188,0,0,1,0-2.375h14.25a1.188,1.188,0,0,1,0,2.375Z" transform="translate(-46.75 -85.001)" fill="#45413c"/>
+  </g>
+</svg>

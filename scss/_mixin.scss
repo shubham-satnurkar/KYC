@@ -1,0 +1,169 @@
+@import 'variables';
+
+
+
+
+@mixin wrapper {
+    width: 100%;;
+    background: url(../img/bg-img.jpg) no-repeat;
+    background-size: cover ;background-position: top;
+    background-position: 0px 0px;
+    background-repeat: repeat-x;
+    animation: rotate 10s linear .5s alternate infinite;
+    
+    &::before{
+        content: ""; position: absolute;
+        width: 100%;height: 100%;
+        backdrop-filter: brightness(.98) blur(30px) saturate(150%);
+        
+    }   
+    @keyframes rotate {
+        0%{
+          background-size: cover;
+          background-position: 10% 0;
+          
+        }
+
+        25% {
+          background-size: cover;
+          background-position: 25% 25%;
+        
+        }
+
+        50%{
+            background-size: cover;
+            background-position: 50% 50%;
+           
+        }
+
+        75% {
+            background-size: cover;
+            background-position: 75% 75%;
+            
+        }
+
+        100%{
+            background-size: cover;
+            background-position: 100% 100%;
+           
+        }
+          
+      }
+}
+
+
+@mixin card-content {
+    .card-title{
+        font-size: 1.5rem;
+        font-family: $pop-reg;color: #1E1E1E;
+        margin-bottom: 20px;
+    }
+    .sub-title{
+        font-size: .75rem;
+        font-family: $pop-bold;
+        color: $light-blue;
+    }
+    .card-text{
+        font-size: .75rem;
+        font-family: $pop-light;
+        line-height: 25px;
+        color: $light-blue;
+    }
+}
+
+.check{
+    background-color: rgba($white,1)!important;
+    .card-check{
+        background-color: $green !important;
+        .bi{visibility: visible !important;}
+    }
+}
+
+
+@mixin btn-outline {
+    border: 1px solid $btn-border;
+    padding: 5px 20px;
+    font-family: $pop-reg;color: $black;
+    font-size: .75rem;text-transform: capitalize;
+    border-radius: initial;
+
+    &:hover{
+        background-color: $btn-border;color: $white;
+        box-shadow: 0px 0px 5px rgba(250,60,27,1);
+    }
+
+}
+
+
+@mixin flexbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin progress-point {
+    position: absolute; @include flexbox;
+    top: -10px;left:100%;transition: none;
+    font-family: $pop-bold;
+    width: 30px;transform: rotate(45deg);
+    height: 30px; border-radius: 5px;
+    background-color: red; z-index: 1; cursor: pointer;
+    h6{
+        transform: rotate(-45deg);font-size: .76rem ;margin-top: 5px;  }
+}
+
+
+@mixin profile {
+    width: 35px;
+    height: 35px; border-radius: 50%;
+    background-color: red;
+    position: relative; top: 10vh;cursor: pointer;
+
+    &::before{
+        content: "";position: absolute;
+        padding: 5px;border-radius: 50%;
+        background-color: $green; right: 0;
+    }
+}
+
+
+.step-progressbar .progress-bar{
+
+
+    .active{
+
+        &::before{
+            
+            background-color: $red!important;
+    
+        }
+        &::after{
+           border: 2px solid $black !important;
+            
+        }
+        
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
